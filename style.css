@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: #F8DCDC;
+}
+.btn{
+    border: solid 1px #78c0a8;
+    width: 100px;
+    height: 100px;
+    display: inline;
+    font-size: 30px;
+    color: #5e412f;
+    background-color: #FFF5C3;
+}
+h1{
+    font-size: 90px;
+    font-family: 微軟正黑體;
+    color: #f07818;
+}
